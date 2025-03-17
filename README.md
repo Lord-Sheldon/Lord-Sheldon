@@ -11,3 +11,25 @@
 - 📫 How to reach me ...
 
 [![My Skills](https://skillicons.dev/icons?i=windows,azure,vscode,apple,unity,unreal)](https://skillicons.dev)
+
+
+## 🏆 Certifications
+
+### Rubrik
+- ✅ **Rubrik Certified Cloud Specialist (RCCS)**
+- ✅ **Rubrik Certified System Administrator (RCSA)**
+- ✅ **Rubrik Cyber Resiliency Specialist (RCRS)**
+
+### Microsoft
+- ✅ **AZ-900: Microsoft Azure Fundamentals**
+- ✅ **SC-900: Microsoft Security, Compliance, and Identity Fundamentals**
+- ✅ **AZ-104: Microsoft Azure Administrator**
+- ✅ **AZ-500: Microsoft Azure Security Technologies**
+
+### Other Relevant Certifications
+- 📜 **CompTIA Security+**
+- 📜 **ITIL v4 Foundation**
+
+---
+
+📝 *Always learning and expanding my expertise in cloud, security, and data protection!*
