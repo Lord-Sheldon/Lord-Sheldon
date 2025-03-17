@@ -26,12 +26,6 @@
 - ✅ **AZ-104: Microsoft Azure Administrator**
 - ✅ **AZ-500: Microsoft Azure Security Technologies**
 
-- ### Certiprof
-- ✅ **AZ-900: Microsoft Azure Fundamentals**
-- ✅ **SC-900: Microsoft Security, Compliance, and Identity Fundamentals**
-- ✅ **AZ-104: Microsoft Azure Administrator**
-- ✅ **AZ-500: Microsoft Azure Security Technologies**
-
 ### Other Relevant Certifications
 - 📜 **CompTIA Security+**
 - 📜 **ITIL v4 Foundation**
