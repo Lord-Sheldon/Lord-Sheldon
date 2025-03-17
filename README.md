@@ -27,7 +27,7 @@
 - ✅ **AZ-500: Microsoft Azure Security Technologies**
 
 - ### Certiprof
-- ✅ **AZ-900: Microsoft Azure Fundamentals**([link-to-certificate](https://images.credly.com/size/340x340/images/0c7dc7a3-86b1-440c-8dd2-80d9041157de/image.png))
+- ✅ **AZ-900: Microsoft Azure Fundamentals**
 - ✅ **SC-900: Microsoft Security, Compliance, and Identity Fundamentals**
 - ✅ **AZ-104: Microsoft Azure Administrator**
 - ✅ **AZ-500: Microsoft Azure Security Technologies**
@@ -35,6 +35,8 @@
 ### Other Relevant Certifications
 - 📜 **CompTIA Security+**
 - 📜 **ITIL v4 Foundation**
+
+- [![RCCS](https://images.credly.com/size/340x340/images/0c7dc7a3-86b1-440c-8dd2-80d9041157de/image.png)](https://link-to-certificate)
 
 ---
 
