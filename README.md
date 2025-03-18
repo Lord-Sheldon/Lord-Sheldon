@@ -32,6 +32,20 @@
 
 - [![RCCS](https://images.credly.com/size/340x340/images/0c7dc7a3-86b1-440c-8dd2-80d9041157de/image.png)](https://link-to-certificate)
 
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lord-Sheldon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Lord-Sheldon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Sheldon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Lord-Sheldon&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ---
 
 📝 *Always learning and expanding my expertise in cloud, security, and data protection!*
