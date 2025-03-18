@@ -15,10 +15,10 @@
 
 ## 🏆 Certifications
 
-### Rubrik
-- ✅ **Rubrik Certified Cloud Specialist (RCCS)**
-- ✅ **Rubrik Certified System Administrator (RCSA)**
-- ✅ **Rubrik Cyber Resiliency Specialist (RCRS)**
+Wasabi
+- ✅ Wasabi Technical Certification
+- ✅ Wasabi Sales Certified
+- ✅ Wasabi for Video Surveillance Certified
 
 ### Microsoft
 - ✅ **AZ-900: Microsoft Azure Fundamentals**
