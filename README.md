@@ -15,16 +15,15 @@
 
 ## 🏆 Certifications
 
-Wasabi
-- ✅ Wasabi Technical Certification
-- ✅ Wasabi Sales Certified
-- ✅ Wasabi for Video Surveillance Certified
+###Wasabi
+- ✅ **Wasabi Technical Certification**
+- ✅ **Wasabi Sales Certified**
+- ✅ **Wasabi for Video Surveillance Certified**
 
 ### Microsoft
-- ✅ **AZ-900: Microsoft Azure Fundamentals**
-- ✅ **SC-900: Microsoft Security, Compliance, and Identity Fundamentals**
-- ✅ **AZ-104: Microsoft Azure Administrator**
-- ✅ **AZ-500: Microsoft Azure Security Technologies**
+- ✅ **Rubrik Cloud Data Protection | Partner Technical Accreditation**
+- ✅ **Rubrik Rewards Sales Accreditation**
+- ✅ **Rubrik Technical Professional (RTP)**
 
 ### Other Relevant Certifications
 - 📜 **CompTIA Security+**
