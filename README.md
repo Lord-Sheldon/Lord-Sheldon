@@ -15,7 +15,7 @@
 
 ## 🏆 Certifications
 
-###Wasabi
+### Wasabi
 - ✅ **Wasabi Technical Certification**
 - ✅ **Wasabi Sales Certified**
 - ✅ **Wasabi for Video Surveillance Certified**
